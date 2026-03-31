@@ -227,31 +227,9 @@ const result = parsePayload(payload);
 
 ---
 
-## Équipe
-
-| Membre | Formation | Rôle |
-|--------|-----------|------|
-| [Nom] | [Université] | Lead développeur — DCT + IA |
-| [Nom] | [Université] | [Rôle] |
-| [Nom] | [Université] | [Rôle] |
-
----
-
-## Roadmap
-
-| Version | Fonctionnalités |
-|---------|----------------|
-| V1 — PoC actuel | DCT + Claude Vision + QR code + Extension |
-| V2 | SHA-256 via Web Crypto + DCT WebAssembly + Support PDF natif complet |
-| V3 | Registre institutionnel sécurisé + API REST + Dashboard admin |
-| V4 | App mobile + Multi-langues (arabe, wolof, bambara) + NFC |
-
----
 
 ## Licence
 
-MIT License — Libre d'utilisation, modification et distribution.
-
----
+MIT License — Libre d'utilisation, modification et distrib
 
 *GhostMark — iSAFE Hackathon 2026 — WSIS Forum — AI for Good*
