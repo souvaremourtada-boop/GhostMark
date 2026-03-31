@@ -166,15 +166,6 @@ Extraction :
 
 ---
 
-## Objectifs de Développement Durable
-
-- **ODD 16** — Paix, justice et institutions efficaces ⭐⭐⭐
-- **ODD 9** — Industrie, innovation et infrastructure ⭐⭐⭐
-- **ODD 4** — Éducation de qualité ⭐⭐
-- **ODD 17** — Partenariats pour les objectifs ⭐
-
----
-
 ## Installation et Utilisation
 
 ### PoC Web (démo instantanée)
@@ -186,15 +177,6 @@ cd ghostmark/poc
 # Aucune installation requise
 ```
 
-### Extension Navigateur
-
-```bash
-# Chrome
-# 1. Aller dans chrome://extensions/
-# 2. Activer le mode développeur
-# 3. Cliquer "Charger l'extension non empaquetée"
-# 4. Sélectionner le dossier ghostmark/extension/
-```
 
 ### Utilisation des modules core (Node.js)
 
